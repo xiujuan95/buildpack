@@ -1,0 +1,3 @@
+[submodule "IBM-buildpack-ci/builder"]
+	path = IBM-buildpack-ci/builder
+	url = https://github.com/paketo-buildpacks/builder.git
